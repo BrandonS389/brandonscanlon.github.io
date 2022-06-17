@@ -2742,9 +2742,9 @@
 		}
 
 		#header .logo {
-			color: #991c1c;
+			color: #383838;
 			display: inline-block;
-			font-weight: 600;
+			font-weight: 800;
 			height: inherit;
 			left: 0;
 			line-height: inherit;
@@ -2752,7 +2752,7 @@
 			padding: 0;
 			position: absolute;
 			top: 0;
-			font-size: 1em;
+			font-size: 2em;
 		}
 
 		#header a {
