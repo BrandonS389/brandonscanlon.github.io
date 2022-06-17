@@ -2742,7 +2742,7 @@
 		}
 
 		#header .logo {
-			color: #ffffff;
+			color: #991c1c;
 			display: inline-block;
 			font-weight: 600;
 			height: inherit;
@@ -2762,7 +2762,7 @@
 			transition: color 0.2s ease-in-out;
 			display: inline-block;
 			padding: 0 0.75em;
-			color: inherit;
+			color: #22c41c;
 			text-decoration: none;
 			font-size: .8em;
 		}
