@@ -2746,13 +2746,12 @@
 			display: inline-block;
 			font-weight: 800;
 			height: inherit;
-			left: 0;
+			left: -25px;
 			line-height: inherit;
 			margin: 0;
 			padding: 0;
 			position: absolute;
 			top: 0;
-			left: -25px;
 			font-size: 2em;
 		}
 
