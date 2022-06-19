@@ -2753,7 +2753,7 @@
 			position: fixed;
 			top: 50px;
 			font-size: 2em;
-			box-shadow: 5px 10px;
+			text-shadow: 5px 10px #383838;
 		}
 
 		#header a {
