@@ -2750,7 +2750,7 @@
 			line-height: inherit;
 			margin: 0;
 			padding: 0;
-			position: absolute;
+			position: left;
 			top: 0;
 			font-size: 2em;
 		}
