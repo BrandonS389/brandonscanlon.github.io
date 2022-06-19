@@ -2751,7 +2751,7 @@
 			margin: 0;
 			padding: 0;
 			position: fixed;
-			top: 0;
+			top: 50px;
 			font-size: 2em;
 		}
 
