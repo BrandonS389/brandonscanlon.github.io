@@ -2933,7 +2933,7 @@
 /* Banner */
 
 	#banner {
-		padding: 200em 0 12em 0;
+		padding: 10em 0 12em 0;
 		background-image: url('../../images/Engagement1.jpg'); 
 		background-size: cover;
 		background-position: top;
@@ -2947,7 +2947,7 @@
 			font-size: 3.5em;
 			font-weight: 100;
 			color: #383838;
-			line-height: 1em;
+			line-height: 10em;
 			margin: 0 0 0.5em 0;
 			padding: 0;
 		}
