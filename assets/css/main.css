@@ -1,5 +1,20 @@
+c1 {
+	color:#E5FCC2;
+}
+c2 {
+	color:#9DE0AD;
+}
+c3 {
+	color:#45ADA8;
+}
+c4 {
+	color:#547980;
+}
+primary {
+	color:#594F4F;
+}
 .header {
-	background: #594F4F;
+	background: primary;
 	color: #E5FCC2;
 }
 .sticky {
