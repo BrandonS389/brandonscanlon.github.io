@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section.1}{Pellet Smoker Overview}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Design Requirements}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{State Logic}{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{Stand By State}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.2}{Start Up State}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.3}{Smoke State}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.4}{Hold State}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.5}{Shutdown State}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{Process Control}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Overview}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Auger Control}{section.3}% 11
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Notes On the PI Controller}{subsection.3.2}% 12
+\BOOKMARK [3][-]{subsubsection.3.2.2}{System Identification}{subsection.3.2}% 13
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Gain Tuning}{subsection.3.2}% 14
+\BOOKMARK [2][-]{subsection.3.3}{Fan Control}{section.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Air-Fuel Ratio Control}{subsection.3.3}% 16
+\BOOKMARK [2][-]{subsection.3.4}{Validation}{section.3}% 17
+\BOOKMARK [1][-]{section.4}{Firmware Configuration}{}% 18
